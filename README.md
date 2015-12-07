@@ -1,20 +1,6 @@
 ## hs ![NPM version](https://img.shields.io/npm/v/hs.svg?style=flat)
 
 
-
-### Installation
-```bash
-$ npm install hs
-```
-
-### Example
-```js
-var hs = require('hs');
-```
-
-### API
-check this file: `index.js`
-
 ### Contributing
 - Fork this Repo first
 - Clone your Repo
@@ -26,7 +12,7 @@ check this file: `index.js`
 - Enjoy hacking <3
 
 ### ISC license
-Copyright (c) 2015 
+Copyright (c) 2015
 
 
 
