@@ -1,0 +1,10 @@
+{ druid: 90,
+  hunter: 92,
+  mage: 90,
+  neutral: 583,
+  paladin: 90,
+  priest: 90,
+  rogue: 90,
+  shaman: 90,
+  warlock: 90,
+  warrior: 90 }
